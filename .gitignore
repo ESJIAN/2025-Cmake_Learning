@@ -10,3 +10,8 @@ Makefile
 .idea/
 *.swp
 *.swo
+*.tlog
+*.sln
+*.vcxproj*
+*.pdb
+*.recipe
